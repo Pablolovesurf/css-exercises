@@ -1,0 +1,16 @@
+.pink-class{
+    background-color:rgba(250, 0, 187, 0.877);
+    font-family:Verdana, "DejaVu Sans", sans-serif;
+}
+.numb3r{
+    font-size:24px;
+}
+#num2{
+    color:rgba(0, 0, 255, 0.877);
+    font-size:36px;
+}
+#num4{
+    background-color:rgba(0, 255, 55, 0.952);
+    font-size:24px;
+    font-weight:bold;
+}
