@@ -1,0 +1,11 @@
+.Me,.No-Me{
+    font-size:28px;
+    font-family:Helvetica,"Times New Roman", sans-serif;
+}
+.Me{
+    color:white;
+    background-color:rgb(5, 5, 7);
+}
+.No-Me{
+    background-color:rgba(255, 255, 5, 0.938);
+}
